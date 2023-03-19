@@ -1,2 +1,2 @@
 # TelegramBot
-t.me/GraceozavrBot бот в телеграмме
+t.me/GraceozavrBot бот в телеграмме(@GraceozavrBot)
