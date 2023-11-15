@@ -1,3 +1,5 @@
+import os
+
 keys = {
     'доллар': 'USD',
     'евро': 'EUR',
@@ -5,4 +7,4 @@ keys = {
     'тенге': 'KZT'
 }
 
-TOKEN = '6160597813:AAEvWHldw83QenyNW-GRmSESmXEYwcG5Glo'
+TOKEN = os.getenv('TOKEN')
